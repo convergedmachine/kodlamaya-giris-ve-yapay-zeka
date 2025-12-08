@@ -103,10 +103,29 @@ Bu ders programı, yapay zeka destekli kodlamadan başlayarak, yaratıcı görse
 
 ---
 
-### 🛠️ Gereksinimler
-* Temel bilgisayar okuryazarlığı.
-* Python ve JavaScript için editör kurulumları (VS Code önerilir).
-* Google Gemini veya benzeri bir LLM hesabına erişim.
+## 🛠️ Teknik Gereksinimler (Kurulum Listesi)
+
+Derse başlamadan önce aşağıdaki araçların kurulu ve test edilmiş olması gerekmektedir.
+
+### 🖥️ Donanım & Temel Araçlar
+- [ ] **Web Kamerası** (Görüntü işleme ve ML modelleri için zorunlu)
+- [ ] **Git** (Latest Version)
+- [ ] [Google Antigravity](https://antigravity.google/) (Erişim kontrolü)
+
+### 🐍 Python & Veri Bilimi (Anaconda)
+- [ ] **Anaconda 3.7 Distribution** (Python 3.7 tabanlı)
+- [ ] **JupyterLab** (Navigator üzerinden)
+- [ ] **Kütüphaneler:** `numpy`, `pandas`, `matplotlib`, `seaborn`, `plotly`, `bokeh`, `altair`, `geopandas`
+
+### 🎨 Yaratıcı Kodlama (Creative Coding)
+- [ ] **Processing IDE** (Son Sürüm) - [İndir](https://processing.org/download)
+- [ ] **py5** - [Kurulum](https://py5coding.org/index.html)
+- [ ] **p5 (Python Mode)** - [Dokümantasyon](https://p5.readthedocs.io/en/latest/index.html)
+- [ ] **VS Code Entegrasyonu** (p5 için) - [Rehber](https://p5.readthedocs.io/en/latest/guides/vscode.html)
+- [ ] **pyp5js** - [Link](https://berinhard.github.io/pyp5js/)
+
+### ✅ Test
+- [ ] **p5.js Web & Kamera Testi:** [Buraya tıklayarak kameranızı test edin](https://editor.p5js.org/ima_ml/sketches/vOSSEZwGf)
 
 ---
 
