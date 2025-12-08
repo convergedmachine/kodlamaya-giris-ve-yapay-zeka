@@ -30,7 +30,6 @@ Bu ders programı, yapay zeka destekli kodlamadan başlayarak, yaratıcı görse
 ### 4. Paket: Temeller ve Çizim
 - **Processing.py'a Giriş:** Kurulum ve çalışma ortamı.
 - Koordinat sistemi ve temel şekiller.
-- Renk uzayları (RGB, HSB).
 
 ### 5. Paket: Etkileşim ve Rassalık
 - **Rassalık (Randomness):** `random()`, `noise()` ve Perlin noise kullanımı.
@@ -39,7 +38,7 @@ Bu ders programı, yapay zeka destekli kodlamadan başlayarak, yaratıcı görse
 
 ### 6. Paket: Döngüler ve Desenler
 - **Döngüler (Loops):** `for` ve `while` ile görsel tekrarlar oluşturma.
-- **Özyineleme (Recursion):** Fraktal yapılar ve kendi kendini çağıran fonksiyonlar.
+- **Özyineleme (Recursion):** Kendi kendini çağıran fonksiyonlar.
 
 ### 7. Paket: Veri Yapıları ve Nesneler
 - **Veri Tipleri:** Değişkenler ve kapsam (scope).
@@ -55,7 +54,6 @@ Bu ders programı, yapay zeka destekli kodlamadan başlayarak, yaratıcı görse
 ### 9. Paket: Hareket ve Simülasyon
 - Vektörler ve hareket fiziği.
 - Hız, ivme ve kuvvet simülasyonları.
-- Parçacık sistemleri (Particle Systems).
 
 ---
 
