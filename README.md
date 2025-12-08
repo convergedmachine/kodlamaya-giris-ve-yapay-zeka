@@ -94,7 +94,7 @@ Bu ders programı, yapay zeka destekli kodlamadan başlayarak, yaratıcı görse
 - **Büyük Dil Modelleri (LLMs):** Transformer mimarisi ve çalışma mantığı (teorik bakış).
 - Metin üretimi ve sınıflandırma.
 
-### 16. Paket: Görüntü İşleme ve Proje
+### 16. Paket: Görüntü İşleme
 - **Computer Vision:** Nesne tanıma, yüz takibi ve pose estimation.
 - Görüntü sınıflandırma modelleri.
 
