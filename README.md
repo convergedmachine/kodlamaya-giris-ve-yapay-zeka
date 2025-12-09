@@ -92,7 +92,7 @@ Bu ders programı, yapay zeka destekli kodlamadan başlayarak, yaratıcı görse
 
 ### 15. Paket: Metin ve Dil Modelleri
 - **Metin İşleme (NLP):** Bölütleme (Tokenization), duygu analizi (sentiment analysis).
-- **Büyük Dil Modelleri (LLMs):** Transformer mimarisi ve çalışma mantığı (teorik bakış).
+- **Büyük Dil Modelleri (LLMs):** Dönüştürücü (Transformer) mimarisi ve çalışma mantığı (teorik bakış).
 - Metin üretimi ve sınıflandırma.
 
 ### 16. Paket: Görüntü İşleme
