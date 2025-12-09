@@ -96,7 +96,7 @@ Bu ders programı, yapay zeka destekli kodlamadan başlayarak, yaratıcı görse
 - Metin üretimi ve sınıflandırma.
 
 ### 16. Paket: Görüntü İşleme
-- **Computer Vision:** Nesne tanıma, yüz takibi ve poz kestirimi (pose estimation).
+- **Bilgisayarla Görü** (Computer Vision): Nesne tanıma, yüz takibi ve poz kestirimi (pose estimation).
 - Görüntü sınıflandırma modelleri.
 
 ---
