@@ -91,12 +91,12 @@ Bu ders programı, yapay zeka destekli kodlamadan başlayarak, yaratıcı görse
 - **Aktarmalı Öğrenme (Transfer Learning):** Eğitilmiş modelleri (MobileNet vb.) yeniden kullanma.
 
 ### 15. Paket: Metin ve Dil Modelleri
-- **Metin İşleme (NLP):** Tokenization, sentiment analysis.
+- **Metin İşleme (NLP):** Bölütleme (Tokenization), duygu analizi (sentiment analysis).
 - **Büyük Dil Modelleri (LLMs):** Transformer mimarisi ve çalışma mantığı (teorik bakış).
 - Metin üretimi ve sınıflandırma.
 
 ### 16. Paket: Görüntü İşleme
-- **Computer Vision:** Nesne tanıma, yüz takibi ve pose estimation.
+- **Computer Vision:** Nesne tanıma, yüz takibi ve poz kestirimi (pose estimation).
 - Görüntü sınıflandırma modelleri.
 
 ---
