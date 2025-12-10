@@ -8,10 +8,10 @@ Bu ders programı, yapay zeka destekli kodlamadan başlayarak, yaratıcı görse
 ## 📦 Modül 1: Yeni Nesil Kodlama Paradigması ve Algoritmik Düşünme
 *Bu modül, kodlamanın değişen yüzüne odaklanır. Yapay zeka asistanları ile "Vibe Coding" kavramını ve algoritmik mantığın farklı dillere nasıl tercüme edildiğini işler.*
 
-### 1. Paket: AI Destekli Akış (The Vibe Coding Era)
+### 1. Paket: YZ (AI) Destekli Akış (The Vibe Coding Era)
 - **Giriş:** Google's Antigravity ve Gemini Pro ile tanışma.
 - **Vibe Coding Nedir?** Kod sözdiziminden (syntax) çok mantığa ve akışa odaklanma.
-- **Araçlar:** AI asistanlarını kodlama ortağı (pair programmer) olarak kullanma.
+- **Araçlar:** YZ (AI) asistanlarını kodlama ortağı (pair programmer) olarak kullanma.
 
 ### 2. Paket: İstem Mühendisliği (Prompt Engineering)
 - Kod üretimi için etkili prompt yazma teknikleri.
