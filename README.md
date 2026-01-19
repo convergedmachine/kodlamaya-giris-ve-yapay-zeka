@@ -1,4 +1,4 @@
-# 📘 Yaratıcı Kodlama ve Yapay Zekaya Giriş
+# 📘 Kodlamaya Giriş ve Yapay Zekaya
 ## Ders İzlencesi (Syllabus)
 
 Bu ders programı, yapay zeka destekli kodlamadan başlayarak, yaratıcı görselleştirme, veri bilimi ve makine öğrenmesi temellerine uzanan kapsamlı bir yol haritası sunar.
